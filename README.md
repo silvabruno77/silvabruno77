@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm studying Information Engineering at the University of Braga.</h4>
+<h4 align="left">I'm studying Computer Engineering at the University of Braga.</h4>
 
 ###
 
